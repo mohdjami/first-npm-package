@@ -20,5 +20,5 @@ All my projects are available on my github account: https://www.github.com/mohdj
 
 ##### STEPS TO CREATE YOUR OWN
 
-The article written by our friend @jackboberg. I used the same for the reference to deploy the package.
+The article written by @jackboberg. I used the same for the reference to deploy the package.
 [Write a Simple npx Business Card](https://studioelsa.se/blog/open-source-oss-npx-business-card).
